@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Training outputs (large, regenerable)
+outputs/
+
+# Logs
+*.log
+
+# Datasets / HF cache
+.cache/
+datasets/
+.hf-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
